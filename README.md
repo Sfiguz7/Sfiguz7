@@ -25,7 +25,6 @@ Some buttons here would be nice too
 <hr />
 
 <h3 align="center"> Projects and stuff </h3>
-
 <hr />
 
 <h3 align="center">Languages and tools</h3>
@@ -34,6 +33,10 @@ Some buttons here would be nice too
     <br />
     <a title="Java" href="https://github.com/Sfiguz7?tab=repositories&language=java">
         <img alt="Java" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/java.svg" />
+    </a>
+    &nbsp;
+    <a title="Julia" href="https://github.com/Sfiguz7?tab=repositories&language=julia">
+        <img alt="Julia" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/julia.svg" />
     </a>
     &nbsp;
     <a title="Python" href="https://www.jetbrains.com/idea/">
@@ -72,6 +75,10 @@ Some buttons here would be nice too
 </p>
 
 <p align="center">
+    &nbsp;
+    <a title="MORFE" href="https://github.com/aopreni/MORFEInvariantManifold.jl/">
+        <img alt="MORFE" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/MORFE.svg" />
+    </a>
     &nbsp;
     <a title="Tensforflow" href="https://discord.com/">
         <img alt="Tensorflow" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/tensorflow.svg" />
