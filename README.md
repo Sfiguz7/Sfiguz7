@@ -67,7 +67,7 @@ Some buttons here would be nice too
     </a>
     &nbsp;
     <a title="Visual Studio Code" href="https://code.visualstudio.com/">
-        <img alt="Visual Studio Code" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/visualstudiocode.svg" />
+        <img alt="Visual Studio Code" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/vscode.svg" />
     </a>
 </p>
 
