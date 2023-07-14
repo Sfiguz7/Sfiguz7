@@ -16,45 +16,78 @@ Some buttons here would be nice too
 
 <h3 align="center">Education</h3>
 
+<p align="left">
+    - (Ongoing) PhD in Structural, Seismic and Geotechnical Engineering at Politecnico di Milano <br />
+    - Master of Science in Mathematical Engineering, Computational Science and Computational Learning at Politecnico di Milano <br />
+    - Bachelor of Science in Mathematical Engineering at Politecnico di Milano
+</p>
+
 <hr />
 
 <h3 align="center"> Projects and stuff </h3>
 
 <hr />
 
-<h3 align="center">What I pretend to know</h3>
+<h3 align="center">Languages and tools</h3>
     
 <p align="center">
     <br />
-    <a title="Java" href="https://github.com/TheBusyBiscuit?tab=repositories&language=java">
-        <img alt="Java" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/java.svg" />
+    <a title="Java" href="https://github.com/Sfiguz7?tab=repositories&language=java">
+        <img alt="Java" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/java.svg" />
+    </a>
+    &nbsp;
+    <a title="Python" href="https://www.jetbrains.com/idea/">
+        <img alt="Python" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/python.svg" />
+    </a>
+    &nbsp;
+    <a title="MatLab" href="https://www.jetbrains.com/idea/">
+        <img alt="MatLab" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/matlab.svg" />
+    </a>
+    <a title="C++" href="https://www.jetbrains.com/idea/">
+        <img alt="C++" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/c++.svg" />
     </a>
 </p>
     
 <p align="center">
     &nbsp;
     <a title="Discord" href="https://discord.com/">
-        <img alt="Discord" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/discord.svg" />
+        <img alt="Discord" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/discord.svg" />
+    </a>
+    &nbsp;
+    <a title="Slack" href="https://slack.com/">
+        <img alt="Slack" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/slack.svg" />
+    </a>
+    &nbsp;
+    <a title="GitHub" href="https://github.com/">
+        <img alt="GitHub" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/github.svg" />
+    </a>
+    &nbsp;
+    <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/">
+        <img alt="IntelliJ IDEA" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/intellijidea.svg" />
+    </a>
+    &nbsp;
+    <a title="Visual Studio Code" href="https://code.visualstudio.com/">
+        <img alt="Visual Studio Code" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/visualstudiocode.svg" />
     </a>
 </p>
 
 <p align="center">
-    <a title="GitHub" href="https://github.com/">
-        <img alt="GitHub" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/github.svg" />
+    &nbsp;
+    <a title="Tensforflow" href="https://discord.com/">
+        <img alt="Tensorflow" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/tensorflow.svg" />
     </a>
     &nbsp;
-    &nbsp;
-    <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/">
-        <img alt="IntelliJ IDEA" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/intellijidea.svg" />
-    </a>
-    &nbsp;
-    <a title="Visual Studio" href="https://visualstudio.microsoft.com/">
-        <img alt="Visual Studio" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/visualstudio.svg" />
+    <a title="PyTorch" href="https://discord.com/">
+        <img alt="PyTorch" height="32px" src="https://raw.githubusercontent.com/Sfiguz7/Sfiguz7/master/icons/pytorch.svg" />
     </a>
 </p>
 
 <hr />
 
-<h3 align="center">Stats are nice but also weirdly placed and I will have to fix this</h3>
+<h3 align="center">Stats are nice</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sfiguz7&theme=onedark)](https://github.com/sfiguz7/github-profile-trophy)
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=sfiguz7&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories" />
+    </a>
+</p>
